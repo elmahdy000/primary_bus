@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179951568435",
+    "project_id": "primarybus",
+    "storage_bucket": "primarybus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179951568435:android:bf591df53bf6e58d244546",
+        "android_client_info": {
+          "package_name": "com.example.primary_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179951568435-3i5hu41jdu9ibo5q07ln4g9vdn28adji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6B_fSovGMuyh31_tRYAy2dHWKauAqt_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179951568435-3i5hu41jdu9ibo5q07ln4g9vdn28adji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
